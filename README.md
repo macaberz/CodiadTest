@@ -1,0 +1,4 @@
+CodiadTest
+==========
+
+Testing codiad plugin
